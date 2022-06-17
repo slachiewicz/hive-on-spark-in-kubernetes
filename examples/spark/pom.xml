@@ -27,7 +27,7 @@
 		<hive.version>2.3.7</hive.version>
 
 		<!-- hadoop version -->
-		<hadoop.version>3.2.0</hadoop.version>
+		<hadoop.version>3.2.3</hadoop.version>
 
 		<!-- tez -->
 		<tez.version>0.9.1</tez.version>
