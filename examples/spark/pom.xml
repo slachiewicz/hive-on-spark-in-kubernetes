@@ -60,7 +60,7 @@
 		<guava.version>14.0.1</guava.version>
 
 		<!-- for S3 -->
-		<amazonaws.sdk.s3.version>1.11.375</amazonaws.sdk.s3.version>
+		<amazonaws.sdk.s3.version>1.12.261</amazonaws.sdk.s3.version>
 		<jets3t.version>0.9.4</jets3t.version>
 
 		<!-- jackson -->
