@@ -21,13 +21,13 @@
         <scala.binary.version>2.12</scala.binary.version>
 
         <!-- spark -->
-        <spark.version>3.0.0</spark.version>
+        <spark.version>3.3.3</spark.version>
 
 		<!-- hadoop version -->
-		<hadoop.version>3.2.0</hadoop.version>
+		<hadoop.version>3.2.4</hadoop.version>
 
 		<!-- for S3 -->
-		<amazonaws.sdk.s3.version>1.11.136</amazonaws.sdk.s3.version>
+		<amazonaws.sdk.s3.version>1.12.261</amazonaws.sdk.s3.version>
 		<jets3t.version>0.9.4</jets3t.version>
 
 		<!-- delta lake -->
