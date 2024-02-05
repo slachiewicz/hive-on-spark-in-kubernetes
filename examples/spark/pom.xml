@@ -21,31 +21,31 @@
 		<scala.binary.version>2.12</scala.binary.version>
 
 		<!-- spark -->
-		<spark.version>3.0.0</spark.version>
+		<spark.version>3.3.3</spark.version>
 
 		<!-- hive -->
 		<hive.version>2.3.7</hive.version>
 
 		<!-- hadoop version -->
-		<hadoop.version>3.2.0</hadoop.version>
+		<hadoop.version>3.2.4</hadoop.version>
 
 		<!-- tez -->
 		<tez.version>0.9.1</tez.version>
 
 		<!-- mysql jdbc -->
-		<mysql-connector.version>5.1.33</mysql-connector.version>
+		<mysql-connector.version>8.0.28</mysql-connector.version>
 
 		<!-- logging -->
-		<log4j.version>2.10.0</log4j.version>
+		<log4j.version>2.12.4</log4j.version>
 
 		<!-- json io -->
-		<json-io.version>4.9.0</json-io.version>
+		<json-io.version>4.14.1</json-io.version>
 
 		<!-- joor -->
 		<joor.version>0.9.12</joor.version>
 
 		<!-- jetty -->
-		<jetty.version>9.3.24.v20180605</jetty.version>
+		<jetty.version>9.4.51.v20230217</jetty.version>
 
 		<!-- delta lake -->
 		<delta-lake.version>0.7.0</delta-lake.version>
@@ -60,11 +60,11 @@
 		<guava.version>14.0.1</guava.version>
 
 		<!-- for S3 -->
-		<amazonaws.sdk.s3.version>1.11.375</amazonaws.sdk.s3.version>
+		<amazonaws.sdk.s3.version>1.12.261</amazonaws.sdk.s3.version>
 		<jets3t.version>0.9.4</jets3t.version>
 
 		<!-- jackson -->
-		<jackson.version>2.10.0</jackson.version>
+		<jackson.version>2.12.7.1</jackson.version>
 	</properties>
 
 	<dependencies>
